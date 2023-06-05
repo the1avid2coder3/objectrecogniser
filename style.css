@@ -1,0 +1,11 @@
+body {
+    background-color: cyan;
+}
+
+h1 {
+    font-size: 40px;
+    font-style: inherit;
+    font-family: monospace;
+    color: aqua;
+  }
+  
